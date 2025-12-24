@@ -1,20 +1,33 @@
-# 👋 Hi, I'm Shubham
+# Enterprise Selenium Java Framework
 
-## Automation Test Engineer
-
-- 3+ years of Manual Testing experience
-- Strong focus on Automation using Selenium & Playwright
-- Building enterprise-grade automation frameworks
-- Experience in UI, API, CI/CD, and AI-assisted testing
+## Overview
+This repository contains an enterprise-grade Selenium automation framework
+built using Java, TestNG, and Maven.  
+It follows industry-standard practices used in real-world automation teams.
 
 ## Tech Stack
-- Java | JavaScript | TypeScript
-- Selenium | Playwright
-- TestNG | Maven
-- Jenkins | Docker
-- REST Assured
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
 - Git & GitHub
+- Jenkins (CI/CD)
+- Docker (Planned)
+- REST Assured (Planned)
+- AI-assisted testing (Future scope)
 
-## Featured Projects
-- 🔹 Enterprise Selenium Java Automation Framework
-- 🔹 Playwright End-to-End Automation Framework
+## Framework Highlights
+- Page Object Model (POM)
+- TestNG-based execution
+- Scalable and maintainable structure
+- CI/CD ready design
+
+## Project Structure
+- phase1-java-fundamentals
+- phase2-selenium-core
+- phase3-framework-ci
+- phase4-ai-mcp
+- phase5-projects
+
+## Execution (Upcoming)
+Instructions to run tests will be added as framework evolves.
